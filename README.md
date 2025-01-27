@@ -1,4 +1,6 @@
-# craftify wiki (OBSOLETE --> working on Craftify 2.0)
+# craftify wiki (OBSOLETE --> now working on Craftify 2.0)
+
+Below links refer to the old version of Craftify (1.0).
 
 This is the Wiki for the [craftify repo](https://github.com/franciscocgue/craftify) (OBSOLETE).
 
